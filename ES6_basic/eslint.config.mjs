@@ -1,13 +1,14 @@
 import globals from "globals";
 import pluginJs from "@eslint/js";
-import pluginReactConfig from "eslint-plugin-react/configs/recommended.js";
-import { fixupConfigRules } from "@eslint/compat";
+import tseslint from "typescript-eslint";
+import pluginVue from "eslint-plugin-vue";
 
 
 export default [
-  {files: ["**/*.{js,mjs,cjs,jsx}"]},
-  { languageOptions: { parserOptions: { ecmaFeatures: { jsx: true } } } },
+  {files: ["**/*.{js,mjs,cjs,ts,vue}"]},
   {languageOptions: { globals: globals.browser }},
   pluginJs.configs.recommended,
-  ...fixupConfigRules(pluginReactConfig),
+  ...tseslint.configs.recommended,
+  ...pluginVue.configs["flat/essential"],
+  {files: ["**/*.vue"], languageOptions: {parserOptions: {parser: tseslint.parser}}},
 ];
