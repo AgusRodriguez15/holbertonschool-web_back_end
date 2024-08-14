@@ -2,7 +2,7 @@
 """solution"""
 
 
-def sum_list(input_list) -> float:
+def sum_list(input_list: float) -> float:
     """function sum_list"""
     sum = 0
     for i in input_list:
