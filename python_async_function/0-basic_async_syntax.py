@@ -2,10 +2,11 @@
 """solution"""
 
 
-import asyncio, random
+import asyncio
+import random
 
 
-async def wait_random(max_delay = 10):
+async def wait_random(max_delay=10):
     """wait_random"""
     x = random.uniform(0, max_delay)
     await asyncio.sleep(x)
