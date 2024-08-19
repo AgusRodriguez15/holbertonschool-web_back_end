@@ -6,6 +6,5 @@ import asyncio
 
 
 async def async_generator ():
-    await asyncio.sleep(1)
-    i =random.sample(range(0, 10), 10)
-    yield i
+    for i in range(10):
+        yield i 
