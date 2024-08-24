@@ -4,10 +4,12 @@ import csv
 import math
 from typing import List
 
+
 def index_range(page: int, page_size: int) -> tuple:
-        """Function index_range"""
-        return ((page - 1) * page_size, page_size * page)
-    
+    """Function index_range"""
+    return ((page - 1) * page_size, page_size * page)
+
+
 class Server:
     """Server class to paginate a database of popular baby names.
     """
@@ -29,9 +31,7 @@ class Server:
 
     def get_page(self, page: int = 1, page_size: int = 10) -> List[List]:
         """Function get_page"""
-        assert isinstance (page, int) and isinstance (page_size, int)
+        assert isinstance(page, int) and isinstance(page_size, int)
         assert page and page_size > 0
         start, end = index_range(page, page_size)
         return self.dataset()[start:end]
-        
-    
