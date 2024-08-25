@@ -1,2 +1,2 @@
 // my comment
-db.collection.find( school )
+db.school.find()
