@@ -1,11 +1,7 @@
 #!/usr/bin/env python3
-"""solution"""
-import pymongo
+"""Solution"""
 
 
 def list_all(mongo_collection):
-    """lists_all"""
-    if not mongo_collection:
-        return []
-    else:
-        return list(mongo_collection.find())
+    """list_all"""
+    return [doc for doc in mongo_collection.find()]
