@@ -1,5 +1,9 @@
+/*
+*   hello
+*
+*/
 function displayMessage(STDOUT) {
     console.log(STDOUT);
 }
 
-export default displayMessage;
+module.exports = displayMessage;
