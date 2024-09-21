@@ -1,0 +1,296 @@
+[33mcommit cd332872b69d7fcf4f8caa18261ce37b6eb43515[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:51:00 2024 -0300
+
+    3 hyper
+
+[33mcommit da2a669b8ab5829daa7fb2da146ef24035a43b28[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:49:39 2024 -0300
+
+    fixed
+
+[33mcommit b3f4405d12256adbec2775a5a833d69f3c128a78[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:48:04 2024 -0300
+
+    fixed
+
+[33mcommit e00722865d6645ad167ce25b534b2f50008640a6[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:45:44 2024 -0300
+
+    2 fixed
+
+[33mcommit 59dfd25392f6207708bf2380ebad7e2a760dcb5b[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:42:10 2024 -0300
+
+    solution 2
+
+[33mcommit 1d186070137214614233379cb5621502c4877f98[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:39:26 2024 -0300
+
+    2 measure time
+
+[33mcommit 073d07ba0cf53164ad0ff0ab74eeda0ae03b626f[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:22:58 2024 -0300
+
+    10 solution
+
+[33mcommit 69a9903635c8ee14cb04975f58d9ba6e8c4db6f2[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:20:31 2024 -0300
+
+    11
+
+[33mcommit a355ce51a6d31d32fd2b98b5d48ec38a3677433e[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:16:42 2024 -0300
+
+    insert school
+
+[33mcommit b8084d1d82136171fea33de3793afb32e3c928c4[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:11:13 2024 -0300
+
+    list all
+
+[33mcommit d1ee23d861c5ea511c414c6e36436b0d62a30c12[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:04:39 2024 -0300
+
+    fixed
+
+[33mcommit 20d9d5b8b9eea347248eeb8163824c11b5012e84[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 20:02:09 2024 -0300
+
+    fixed
+
+[33mcommit 7ad1e3d7cd16a164d5e63f5e0c6aa586f606f6ed[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 19:52:40 2024 -0300
+
+    add pymongo
+
+[33mcommit b778b9f329e94b140136d112078d9dc5a0f2352f[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 19:50:33 2024 -0300
+
+    8 all
+
+[33mcommit ba9d4d40ff52c07fd27a8f40292cf69e237566d2[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 17:40:39 2024 -0300
+
+    delete amny
+
+[33mcommit 53c091a6add45151bf5af6905284285755c0de12[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 17:36:14 2024 -0300
+
+    remove
+
+[33mcommit bf1a348d4fb7ff50889b38737503f2efd9da6632[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 04:21:48 2024 -0300
+
+    6 solutiion
+
+[33mcommit f4a74d6210acf2c6968e721615aac0374d9bcae6[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 04:19:45 2024 -0300
+
+    fixed
+
+[33mcommit 7e700366fcee537b8b6268922a8428f45c46f470[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 04:18:56 2024 -0300
+
+    count
+
+[33mcommit a6d80aab5d0fd67c8a126f6a9414b21ef649ab67[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:54:50 2024 -0300
+
+    fixed
+
+[33mcommit 5101a5840c1ee35f2750a4b26faf804ad40ddea9[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:53:53 2024 -0300
+
+    fixed
+
+[33mcommit 89b538ac961f6fbc5b7670a820e0c549880d520e[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:50:53 2024 -0300
+
+    fixed
+
+[33mcommit e1a26595b381db73643fc86e468f6f8fbd21762f[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:49:44 2024 -0300
+
+    fixed
+
+[33mcommit 7535974e8c52d0b091b8498e137ac8a9b0927888[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:48:51 2024 -0300
+
+    solution 4
+
+[33mcommit c3478e1b10e7ee60162c17eeaceba1823618c8a0[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:43:26 2024 -0300
+
+    fixed
+
+[33mcommit cb1364915676e84809d2b33d69f854ab267613d6[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:39:29 2024 -0300
+
+    fixed
+
+[33mcommit e6b424e94a2de54bbfa87b0f89c2272eeddcf0f9[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:38:47 2024 -0300
+
+    3 solution
+
+[33mcommit bd7a007847691f851828814905f0c0c03853850d[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:35:46 2024 -0300
+
+    fixed
+
+[33mcommit f51ea6ff077037b644a9a88ffa30db78e584e85a[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:25:48 2024 -0300
+
+    fixed
+
+[33mcommit 7cbecf919b7460a774fafeead008c44ec9fc1932[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:23:59 2024 -0300
+
+    2 solution
+
+[33mcommit 8746a437cdaf5dcaf23d959b4999d52baf8dc10b[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 03:04:48 2024 -0300
+
+    solution 1
+
+[33mcommit 8989ac6ff06345c5741f55719a0833f6a65383d8[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 02:35:23 2024 -0300
+
+    show dbs
+
+[33mcommit 79768e0030ef15fcd1751f94a1e5bbb22a4f7284[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 00:10:51 2024 -0300
+
+    add commment
+
+[33mcommit 4920b60dca274f90c52f2012de9a830b9379a594[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Sun Aug 25 00:10:22 2024 -0300
+
+    solution 0
+
+[33mcommit 74ca5888dbf46e84763835c557642928e3e1e351[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Fri Aug 23 22:15:34 2024 -0300
+
+    fixed 1
+
+[33mcommit dfc1db3809be860c15055a4d516feaf6c3fdc08c[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Fri Aug 23 22:13:17 2024 -0300
+
+    add 1 solution
+
+[33mcommit 43a9faba2f2117b2704eb3eff07a1579568b7108[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 11:11:49 2024 -0300
+
+    more clean
+
+[33mcommit 460aa8007e70b4bdcb0dedf2be95533d6e0a31f8[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 10:55:36 2024 -0300
+
+    add readme
+
+[33mcommit 9e383d1aad04b96863eff4e644fe7ddce58183cd[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 10:54:51 2024 -0300
+
+    0 solution
+
+[33mcommit c810bff3592758ba9f501011908c692424df6d80[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 00:36:16 2024 -0300
+
+    test
+
+[33mcommit e9e3ff705ceaaaee266e6e97bc5f217a4a9e3a5c[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 00:32:51 2024 -0300
+
+    fix pycode
+
+[33mcommit cce9768c353cf8460194f5fe32bcb694ac9cd2bd[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 00:30:14 2024 -0300
+
+    fixed
+
+[33mcommit 6424061ef6eac3c7ddd3961088bee8b324441327[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Tue Aug 20 00:27:23 2024 -0300
+
+    fixed
+
+[33mcommit eba679928406c8f56cb45265b0eb5ec9b9e15ffb[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Mon Aug 19 15:15:23 2024 -0300
+
+    FIXED
+
+[33mcommit 562573135b47d939234cbacdaf8d269165de11d1[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Mon Aug 19 15:11:05 2024 -0300
+
+    3 solution
+
+[33mcommit 71013a98c905c3d3c0e18647d3ec8d45c0e40785[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Mon Aug 19 14:39:22 2024 -0300
+
+    fixed
+
+[33mcommit 9fd8d7ec97ffc258bd72494012bb80c654cabb56[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Mon Aug 19 14:36:02 2024 -0300
+
+    fixed
+
+[33mcommit 2b34266f9001a01f7c9b3f366c3c1a84215172aa[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Mon Aug 19 14:30:43 2024 -0300
+
+    1 solution
+
+[33mcommit 29a8ffa558720f8df039f638719606b42e7aa139[m
+Author: AgusRodriguez15 <8670@holbertonstudents.com>
+Date:   Mon Aug 19 13:06:53 2024 -0300
+
+    test
+
+[33mcommit b6e3b2496ff595b8c8546bacbb0329c4307c6a0e[m
+Author: AgusRodriguez15 <8670@holbertonstudents.co
